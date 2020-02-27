@@ -17,10 +17,6 @@ Experienced Front End Developer with a demonstrated history of working in the co
  GIT
  Linux
 
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
 
 
