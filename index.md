@@ -48,6 +48,6 @@ Find me on social media >
 :call_me_hand: +37368298874
 
 
-:sunglasses: :roll_eyes:
+:sunglasses:
 
  -------------------------------------- @ Șeremet Ion -------------------------------------- 
