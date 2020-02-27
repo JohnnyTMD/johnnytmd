@@ -1,4 +1,4 @@
-## Welcome to my page
+## Welcome to my page :man_technologist:
 
 Experienced Front End Developer with a demonstrated history of working in the computer software industry. Skilled in Javascript, Angular, jQuery and TypeScript. Strong engineering professional with a High School focused in Information Technology from ASEM Chișinău. 
 
@@ -41,3 +41,13 @@ Find me on social media >
 [LinkedIn](https://www.linkedin.com/in/johnnytmd/)
 
 [Facebook](https://www.facebook.com/JohnnyTMD)
+
+
+:email: jonnytmd5@gmail.com
+
+:call_me_hand: +37368298874
+
+
+:sunglasses: :roll_eyes:
+
+-------------------------------------------- @ Șeremet Ion ----------------------------------------------------------
