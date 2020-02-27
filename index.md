@@ -24,7 +24,7 @@ Experienced Front End Developer with a demonstrated history of working in the co
 
 
 ```markdown
-
+ >
  Reloadly  -  Front-end Developer 
               > 08.2018 - present 
               > Angular
