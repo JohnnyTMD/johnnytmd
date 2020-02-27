@@ -7,15 +7,15 @@ Experienced Front End Developer with a demonstrated history of working in the co
 
 ```markdown
 
-# JS ES6
-# HTML5
-# CSS3
+ JS ES6
+ HTML5
+ CSS3
 
-# Angular
-# React
+ Angular
+ React
 
-# GIT
-# Linux
+ GIT
+ Linux
 
 
 **Bold** and _Italic_ and `Code` text
@@ -23,6 +23,20 @@ Experienced Front End Developer with a demonstrated history of working in the co
 [Link](url) and ![Image](src)
 ```
 
+
+### Experience
+
+
+```markdown
+
+ Reloadly  -  Front-end Developer > 08.2018 - present > Angular
+ MILAV     -  Web Developer > 10.2015 - 06.2019 > PHP, AngularJs, Angular 2+
+
+```
+
+
 Find me on social media > 
+
 [LinkedIn](https://www.linkedin.com/in/johnnytmd/)
+
 [Facebook](https://www.facebook.com/JohnnyTMD)
