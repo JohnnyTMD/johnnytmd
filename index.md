@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to my page
 
-You can use the [editor on GitHub](https://github.com/JohnnyTMD/johnnytmd/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Experienced Front End Developer with a demonstrated history of working in the computer software industry. Skilled in Javascript, Angular, jQuery and TypeScript. Strong engineering professional with a High School focused in Information Technology from ASEM Chișinău. 
 
 ### Markdown
 
