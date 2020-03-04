@@ -9,7 +9,7 @@ Experienced Front End Developer with a demonstrated history of working in the co
 
  JS ES6
  HTML5
- CSS3
+ SCSS
 
  Angular
  React
