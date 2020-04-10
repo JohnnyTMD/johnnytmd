@@ -26,11 +26,11 @@ Experienced Front End Developer with a demonstrated history of working in the co
 ```markdown
  >
  Reloadly  -  Front-end Developer 
-              > 08.2018 - present 
+              > 06.2019 - present 
               > Angular
               
  MILAV     -  Web Developer 
-              > 10.2015 - 06.2019 
+              > 06.2016 - 05.2019 
               > PHP, AngularJs, Angular 2+
 
 ```
