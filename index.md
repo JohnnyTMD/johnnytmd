@@ -1,4 +1,4 @@
-## Welcome to my page :man_technologist:
+## Welcome :man_technologist:
 
 Experienced Front End Developer with a demonstrated history of working in the computer software industry. Skilled in JavaScript, Angular and TypeScript. Strong engineering professional with a High School focused in Information Technology from ASEM Chișinău. 
 
